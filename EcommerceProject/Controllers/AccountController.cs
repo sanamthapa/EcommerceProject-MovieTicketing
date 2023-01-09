@@ -20,9 +20,7 @@ namespace EcommerceProject.Controllers
             _signInManager = signInManager;
             _context = context;
         }
-        //testing for github
-        //testing for github
-        //testing for github
+        
 
 
         public async Task<IActionResult> Users()
